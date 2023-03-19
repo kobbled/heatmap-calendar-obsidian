@@ -12,4 +12,21 @@
 .theme-dark .heatmap-calendar-boxes .isEmpty{
     background: rgb(182, 121, 121) !important;
 }
+
+.heatmap-calendar-boxes .heatmap-calendar-content {
+    text-decoration: none !important;
+    display: none;
+    position: absolute !important;
+    background-color: var(--background-primary);
+    font-size: 1.5em;
+    padding: 5px;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    white-space:nowrap;
+  }
+  
+  .hasData:hover .heatmap-calendar-content {
+    display: block;
+  }
 /* ------------------------------------  */
