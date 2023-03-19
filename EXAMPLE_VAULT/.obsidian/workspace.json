@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Test Span Content Hover.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,16 +85,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-metatable:Metatable": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "c0a320f93508fa45",
   "lastOpenFiles": [
     "Overview.md",
+    "Test Span Content Hover.md",
+    "Overview extended.md",
     "daily notes/2022-03-11.md",
     "daily notes/2022-03-12.md",
-    "Overview extended.md",
     "daily notes/2022-01-02.md",
     "daily notes/2022-01-01.md"
   ]
