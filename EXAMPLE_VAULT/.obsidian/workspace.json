@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Test Span Content Hover.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1973158ac1949ea",
